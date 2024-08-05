@@ -17,7 +17,7 @@
 ```bash
 ./change-perm.sh -f extensions.txt  -u username1
 ```
-## to change permissions (auto-mode)::
+## to change permissions (auto-mode):
 ```bash
 ./scanner.sh a -f extensions.txt  -u username1
 ```
