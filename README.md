@@ -12,7 +12,6 @@
 
 # Usage scenarios
 
-## change permissions (interactively):
 ### to change permissions (interactively):
 ```bash
 ./change-perm.sh -f extensions.txt  -u username1
