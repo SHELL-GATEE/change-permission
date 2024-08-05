@@ -1,0 +1,13 @@
+.gz
+.txt
+.log
+.tar
+.tar.xz
+.tar.bz2
+.tar.Z
+.tar.zip
+.zip
+.rar
+.xz
+.7z
+.sql
